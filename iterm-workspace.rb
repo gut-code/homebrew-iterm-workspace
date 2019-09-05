@@ -1,8 +1,8 @@
 class ItermWorkspace < Formula
   desc "Configuration-based iTerm scripting for starting up your project workspace."
   homepage "https://github.com/knrz/iterm-workspace"
-  url "https://github.com/knrz/iterm-workspace/archive/1.1.0.tar.gz"
-  sha256 "59d4822486fbe62e653cdefdf17b1689b68d9b9fe03d2c49c9ca6d571ebb4417"
+  url "https://github.com/knrz/iterm-workspace/archive/1.1.1.tar.gz"
+  sha256 "28fcbe04b7049f904ab7cf9ca88b37c3132524b560e744c3962d1ed49b681b0f"
 
   bottle :unneeded
 
