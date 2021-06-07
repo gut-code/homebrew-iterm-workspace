@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-wget https://github.com/knrz/iterm-workspace/archive/$1.tar.gz
-echo $(openssl dgst -sha256 $1.tar.gz)
-rm $1.tar.gz
+wget https://github.com/gut-code/iterm-workspace/archive/$1.tar.gz
+echo $(openssl dgst -sha256 $1)
+rm $1
